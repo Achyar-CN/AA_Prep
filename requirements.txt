@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+plotly
+scipy
+gradio
+category_encoders
