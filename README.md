@@ -1,13 +1,13 @@
 # ProPrep 🚀
 
-Supercharge alur kerja persiapan data Anda\! Dikembangkan oleh tim **Advanced Analytics**, **ProPrep** adalah *library* Python yang dirancang untuk mengubah data mentah yang berantakan menjadi dataset yang siap untuk *machine learning* dengan standarisasi dan efisiensi.
+Enhance proses persiapan data Anda\! Dikembangkan oleh tim **Advanced Analytics**, **ProPrep** adalah *library* Python yang dirancang untuk mengubah data mentah yang berantakan menjadi dataset yang siap digunakan dalam pemodelan *machine learning*.
 
 ProPrep menyediakan **dua mode utama**:
 
 1.  **Library Mode**: Gunakan kumpulan fungsi *data preparation* yang kuat dan fleksibel langsung di dalam *notebook* atau skrip Anda.
 2.  **App Mode**: Luncurkan aplikasi web interaktif dengan Gradio untuk bereksperimen dengan berbagai teknik *data preparation* secara visual dan *real-time*.
 
-*(Tips: Anda bisa merekam layar aplikasi Gradio Anda dan mengubahnya menjadi GIF untuk ditaruh di sini)*
+![Demo Aplikasi ProPrep](xx)
 
 -----
 
