@@ -7,7 +7,7 @@ ProPrep menyediakan **dua mode utama**:
 1.  **Library Mode**: Gunakan kumpulan fungsi *data preparation* yang kuat dan fleksibel langsung di dalam *notebook* atau skrip Anda.
 2.  **App Mode**: Luncurkan aplikasi web interaktif dengan Gradio untuk bereksperimen dengan berbagai teknik *data preparation* secara visual dan *real-time*.
 
-![Demo Aplikasi ProPrep](xx)
+![Demo Aplikasi ProPrep](Sample Usage.gif)
 
 -----
 
